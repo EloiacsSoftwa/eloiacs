@@ -1,0 +1,24 @@
+.table-td {
+  text-align: center !important;
+  vertical-align: middle !important;
+  padding: 0.5rem !important;
+}
+
+.btn-globalDiscount {
+  background-color: #1d1d5e !important;
+  border-color: #1d1d5e !important;
+  width: 130px !important;
+  padding: 5px !important;
+  border-radius: 8px !important;
+}
+
+.typeahead {
+  border: none;
+}
+
+.typeahead input[type="text"] {
+  border: none;
+  box-shadow: none;
+  outline: none;
+  background-color: whitesmoke;
+}

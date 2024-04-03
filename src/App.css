@@ -1,0 +1,113 @@
+* {
+  font-size: 14px;
+}
+input.PhoneInputInput {
+  background-color: white;
+  border: none;
+}
+/* Apply styles for focused state in the data */
+.inputfocus:focus {
+  border-color: rgb(233, 228, 228);
+  box-shadow: none;
+  outline: none;
+}
+
+.plain_text {
+  height: calc(3rem + calc(var(--bs-border-width) * 2)) !important;
+  min-height: calc(3rem + calc(var(--bs-border-width) * 2)) !important;
+  line-height: 1.25;
+}
+
+.full-background {
+  background-image: linear-gradient(
+    to right top,
+    #d16ba557,
+    #c777b987,
+    #ba83ca87,
+    #aa8fd8,
+    #9a9ae1,
+    #8aa7ec,
+    #79b3f487,
+    #69bff899,
+    #52cffe,
+    #41dfff9c,
+    #46eefa6b,
+    #5ffbf1
+  );
+  background-repeat: no-repeat;
+  flex: 1;
+  background-size: cover;
+  backdrop-filter: blur;
+  background-color: rgba(255, 255, 255, 0.5);
+  min-height: 100vh;
+  max-height: 100%;
+}
+
+.w-85 {
+  width: 85%;
+}
+
+.dropdown-toggle {
+  border: none !important;
+}
+
+.dropdown {
+  padding-left: 4%;
+}
+
+a.ml-4p.trans.nav-link {
+  font-weight: 400;
+  border: none;
+}
+
+.ml-4p {
+  margin-left: 4%;
+}
+
+.dropdown-toggle::after {
+  display: none !important;
+}
+
+.dropdown-menu.show {
+  border: none;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 1px;
+}
+a.ml-4p.trans.nav-link.active {
+  font-weight: 400;
+}
+a.ml-4p.trans.nav-link:hover {
+  border-bottom: 2px solid;
+}
+.dropdown-toggle::after {
+  display: none !important;
+}
+
+/*-----------supplier page----------------*/
+
+button {
+  background-color: #25316f;
+  color: white;
+  border-color: #25316f;
+}
+.icons-set svg {
+  padding: 3px;
+  border-radius: 3px;
+  margin-left: 5%;
+  height: 30px;
+  width: 30px;
+  background: #e4e4e4;
+  align-items: center !important;
+}
+.selectedIcon {
+  background-color: #25316f !important;
+  color: white;
+}
+.inputfoixa {
+  border-top-right-radius: 150;
+}
+a.ml-4p.trans.nav-link {
+  color: black;
+
+ 
+}

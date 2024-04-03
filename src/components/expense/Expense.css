@@ -1,0 +1,27 @@
+.search {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 30px;
+}
+
+.custom-modal .modal-content {
+  border-radius: 0;
+}
+
+.c-b {
+  color: #1d1d5e !important;
+}
+
+.btn-c {
+  background-color: white !important;
+  color: #1d1d5e !important;
+  border-color: #1d1d5e !important;
+  width: 100px;
+}
+
+.btn-s{
+  background-color: #1d1d5e !important;
+  border-color: #1d1d5e !important;
+  width: 100px;
+}

@@ -1,0 +1,40 @@
+th {
+  background-color: #1d1d5e !important;
+  color: white !important;
+  font-size: 12px !important;
+  text-align: center !important;
+}
+td {
+  text-align: center;
+}
+
+.ms-2.react-datepicker-ignore-onclickoutside {
+  border-radius: 6px !important;
+  border: 1px solid gray !important;
+}
+.ms-2.datepicker {
+  border-radius: 6px !important;
+  border: 1px solid gray !important;
+}
+.react-datepicker__month-container {
+  float: left;
+}
+.react-datepicker-popper {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  transform: translate(865px, 117px);
+}
+.modal-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 86%;
+  margin-top: 15%;
+}
+.form-control.inputfocus.description {
+  margin-left: 17px;
+}
+.pagination {
+  margin-left: 64%;
+}

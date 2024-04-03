@@ -1,0 +1,10 @@
+.typeahead {
+    border: none;
+  }
+  
+  .typeahead input[type="text"] {
+    border: none;
+    box-shadow: none;
+    outline: none;
+    background-color: whitesmoke;
+  }

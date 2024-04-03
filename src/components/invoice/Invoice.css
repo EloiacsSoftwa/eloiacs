@@ -1,0 +1,47 @@
+.table-td {
+  text-align: center !important;
+  vertical-align: middle !important;
+  padding: 0.5rem !important;
+}
+
+.btn-globalDiscount {
+  background-color: #1d1d5e !important;
+  border-color: #1d1d5e !important;
+  width: 130px !important;
+  padding: 5px !important;
+  border-radius: 8px !important;
+}
+
+.btn-save {
+  background-color: #1d1d5e !important;
+  border-color: #1d1d5e !important;
+  color: "white" !important;
+  width: 120px !important;
+}
+
+.btn-c {
+  background-color: "white" !important;
+  border-color: #1d1d5e !important;
+  color: #1d1d5e !important;
+  width: 90px !important;
+}
+
+.square {
+  height: 13px;
+  width: 13px;
+  background-color: #0d6efd;
+  margin-right: 54px;
+  margin-left: 44px;
+  margin-top: 7px;
+}
+
+.typeahead {
+  border: none;
+}
+
+.typeahead input[type="text"] {
+  border: none;
+  box-shadow: none;
+  outline: none;
+  background-color: whitesmoke;
+}
